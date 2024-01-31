@@ -1,9 +1,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abobafett-dev&theme=tokyonight&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&layout=compact&theme=tokyonight&hide_title=true)
 ---
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbobaFett&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbobaFett&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 **abobafett-dev/abobafett-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
