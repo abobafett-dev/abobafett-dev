@@ -1,6 +1,5 @@
 
-
-[![abobafett-dev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abobafett-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&hide_progress=true)
 
 <!--
 ### Hi there 👋
