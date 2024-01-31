@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&layout=compact)
 
 <!--
 ### Hi there 👋
