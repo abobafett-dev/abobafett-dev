@@ -1,7 +1,8 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abobafett-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&layout=compact&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abobafett-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abobafett-dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
