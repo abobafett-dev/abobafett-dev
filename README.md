@@ -15,13 +15,6 @@ Artificial Intelligence and Data Engineering, incomplete Master
 
 ---
 
-### My account stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abobafett-dev&theme=tokyonight&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&layout=compact&theme=tokyonight&hide_title=true)
-
----
-
 ### What I've worked with
 
 **💬 Languages**
@@ -43,6 +36,13 @@ Artificial Intelligence and Data Engineering, incomplete Master
 <code><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF645F.svg?style=for-the-badge&logo=Laravel&logoColor=white"/></code>
 <code><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></code>
 <code><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></code>
+
+---
+
+### My account stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abobafett-dev&theme=tokyonight&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&layout=compact&theme=tokyonight&hide_title=true)
 
 <!--
 
