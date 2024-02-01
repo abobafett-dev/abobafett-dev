@@ -4,6 +4,32 @@
 
 ---
 
+
+
+## What I've worked with
+
+**💬 Languages**
+
+<code><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></code>
+<code><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></code>
+<code><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></code>
+<code><img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
+<code><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
+<code><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
+
+**🗄️ Databases**
+
+<code><img alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
+<code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/></code>
+
+**🛠 Frameworks**
+
+<code><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%2302569B.svg?style=for-the-badge&logo=Laravel&logoColor=white"/></code>
+<code><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></code>
+<code><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></code>
+
+---
+
 I can develop machine learning models, mostly supervised, also some
 unsupervised. I can design and develop of information system. Predominantly
 on PHP - Laravel. Also, on Dart - Flutter, Python - Django. I participated or
