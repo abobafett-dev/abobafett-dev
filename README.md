@@ -1,6 +1,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abobafett-dev&theme=tokyonight&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abobafett-dev&layout=compact&theme=tokyonight&hide_title=true)
 ---
+I can develop machine learning models, mostly supervised, also some
+unsupervised. I can design and develop of information system. Predominantly
+on PHP - Laravel. Also, on Dart - Flutter, Python - Django. I participated or
+individual created eight student’s projects in the areas of: web, mobile,
+windows forms, games.
+---
 **Innopolis University**, Institute of Data Science and Artificial Intelligence,
 Artificial Intelligence and Data Engineering, incomplete Master
 
