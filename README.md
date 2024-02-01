@@ -10,7 +10,7 @@ windows forms, games.
 
 ### What I'm doing now
 
-Now I'm student of ![**Innopolis University**](@InnopolisUniversity), Institute of Data Science and Artificial Intelligence,
+Now I'm student of [**Innopolis University**](https://innopolis.university/en/), Institute of Data Science and Artificial Intelligence,
 Artificial Intelligence and Data Engineering, incomplete Master
 
 ---
