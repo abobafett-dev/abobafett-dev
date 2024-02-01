@@ -37,6 +37,12 @@ Artificial Intelligence and Data Engineering, incomplete Master
 <code><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></code>
 <code><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></code>
 
+**🔮 Other Tools**
+
+<code><img alt="Laravel" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></code>
+<code><img alt="Flutter" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
+<code><img alt="Django" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></code>
+
 ---
 
 ### My account stats
