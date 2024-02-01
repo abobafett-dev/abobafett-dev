@@ -20,11 +20,11 @@
 **🗄️ Databases**
 
 <code><img alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
-<code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/></code>
+<code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white"/></code>
 
 **🛠 Frameworks**
 
-<code><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%2302569B.svg?style=for-the-badge&logo=Laravel&logoColor=white"/></code>
+<code><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF645F.svg?style=for-the-badge&logo=Laravel&logoColor=white"/></code>
 <code><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></code>
 <code><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></code>
 
