@@ -30,6 +30,7 @@ Artificial Intelligence and Data Engineering, incomplete Master
 
 <code><img alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
 <code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white"/></code>
+<code><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCB2A"/></code>
 
 **🛠 Frameworks**
 
