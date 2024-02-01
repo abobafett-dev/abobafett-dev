@@ -19,8 +19,8 @@
 
 **🗄️ Databases**
 
-<code><img alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=%2300738E"/></code>
-<code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=white"/></code>
+<code><img alt="PostgresSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
+<code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=%2300738E"/></code>
 
 **🛠 Frameworks**
 
